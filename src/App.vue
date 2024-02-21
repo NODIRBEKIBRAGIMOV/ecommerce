@@ -3,6 +3,7 @@
   <RouterView class="routers"/>
   <a href="#"><i class='bx bx-up-arrow-alt'></i></a>
   <Footer />
+  .
 </template>
 <script>
 import { RouterView } from 'vue-router';
