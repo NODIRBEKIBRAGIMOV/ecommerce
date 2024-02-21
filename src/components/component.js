@@ -1,0 +1,8 @@
+export {default as Header} from '../components/Header.vue'
+export {default as Navbar} from '../components/Navbar.vue'
+export {default as Menu} from '../components/Menu.vue'
+export {default as Search} from '../components/Search.vue'
+export {default as Title} from '../components/Katalog/Title.vue'
+export {default as Filter} from '../components/Katalog/Filter.vue'
+export {default as ContentFather} from '../components/Katalog/ContentFather.vue'
+export {default as Loader} from '../components/Ui component/Loader.vue'

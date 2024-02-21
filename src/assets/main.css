@@ -1,0 +1,195 @@
+@import './base.css';
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+
+body {
+    background-color: white;
+    color: #2C2C2C;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box !important;
+    font-family: 'Jost', sans-serif;
+}
+
+::selection {
+    background-color: #888;
+    color: black;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #333;
+    border-radius: 15px;
+}
+
+.containers {
+    max-width: 1200px;
+    margin-bottom: 125px;
+}
+
+.containers-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px !important;
+}
+
+.containers-title h1,
+.containers-title p {
+    margin: 0;
+}
+
+.containers-title p a {
+    text-decoration: none;
+    color: #707070;
+}
+
+.containers-title p a:hover {
+    color: #000;
+}
+
+.containers h1 {
+    font-size: 34px;
+    color: #2c2c2c;
+    padding: 31px 0 27px;
+}
+
+.containers ul {
+    padding: 0 0 0 25px;
+}
+
+.containers ul li {
+    padding: 10px 0;
+    font-size: 16px;
+}
+
+.containers p {
+    color: rgb(17, 17, 17);
+    font-family: sans-serif;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: normal;
+}
+
+@media (max-width: 1200px) {
+    .containers {
+        max-width: 100%;
+        padding: 20px !important;
+    }
+}
+
+@media (max-width: 576px) {
+    .containers {
+        padding: 10px !important;
+    }
+
+    .containers h1 {
+        font-size: 25px;
+    }
+
+    .containers p {
+        font-size: 15px;
+    }
+
+    .containers-title {
+        flex-direction: column;
+        padding: 0 0 15px 0;
+    }
+}
+
+
+    /* swiper css */
+
+    .swiper-pagination {
+        bottom: 10px !important;
+    }
+
+    .swiper-button-prev,
+    .swiper-button-next {
+        text-shadow: 0 0 20px rgb(255, 255, 255);
+        height: 15px;
+    }
+
+    .swiper-button-prev:after,
+    .swiper-button-next:after {
+        color: black;
+        font-weight: 800 !important;
+        border-radius: 10px;
+        background-color: #d6d6d677;
+        padding: 10px;
+        font-size: 20px !important;
+    }
+
+    .swiper-pagination-bullet {
+        width: 15px !important;
+        border-radius: 10px !important;
+        height: 5px !important;
+    }
+
+    .swiper-pagination-bullet-active {
+        width: 25px !important;
+        background: #6068b2 !important;
+    }
+
+
+
+
+    @media (max-width: 1025px) {
+        .swiper-button-prev:after .swiper-button-next:after {
+            font-size: 15px;
+        }
+    }
+
+    @media (max-width: 420px) {
+        .swiper-button-next {
+            right: -5px !important;
+        }
+
+        .swiper-button-prev {
+            left: -5px !important;
+        }
+
+        .swiper-button-next:after,
+        .swiper-button-prev:after {
+            font-size: 25px !important;
+        }
+    }
+
+
+
+
+    /* ...router-a... */
+    .router-a {
+        color: #707070 !important;
+        font-size: 16px;
+        position: relative;
+        cursor: pointer;
+        text-decoration: none !important;
+    }
+
+    .router-a:after {
+        content: '';
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        height: 1px;
+        background: #000;
+        transform: scaleX(0);
+        transform-origin: left;
+        transition: all 0.3s;
+    }
+
+    .router-a:hover:after {
+        transform: scaleX(1) !important;
+    }
