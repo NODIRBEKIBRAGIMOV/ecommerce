@@ -1092,6 +1092,7 @@ export default {
     }
     .elementor-title h3 {
         font-size: 15px !important;
+        margin: 0;
     }
     .card-img {
         width: 80%;
