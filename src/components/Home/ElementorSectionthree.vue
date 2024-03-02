@@ -38,8 +38,7 @@
                     src="https://marevo.style/wp-content/uploads/elementor/thumbs/DSC09759-qa5w782fwd2r85ecs7ltjp056ygckjgomhe8o3hg3c.webp"
                     title="DSC09759" alt="DSC09759" loading="lazy">
             </a>
-            <a href="https://instagram.com/marevo_shoes?igshid=YmMyMTA2M2Y=" class="img5"
-                v-motion-slide-visible-once-bottom>
+            <a href="https://instagram.com/marevo_shoes?igshid=YmMyMTA2M2Y=" class="img5">
                 <div class="blog">
                     <i class='bx bxl-instagram'></i>
                     <span>Bizni instagramda kuzatip boring</span>

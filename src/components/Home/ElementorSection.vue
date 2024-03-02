@@ -15,7 +15,7 @@
         <swiper :spaceBetween="30" :hashNavigation="{ watchState: true, }" :pagination="{ clickable: true, }"
             :navigation="true" :modules="modules" class="mySwiper">
             <swiper-slide data-hash="slide1" class="slide">
-                <div class="elementor-card media-card1" v-motion-slide-visible-once-left>
+                <div class="elementor-card media-card1">
                     <div class="card-img">
                         <img src="https://marevo.style/wp-content/uploads/2023/02/DSC00597-%E2%80%94-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F-213x300.jpg"
                             alt="">
@@ -46,7 +46,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="elementor-card media-card2" v-motion-slide-visible-once-top>
+                <div class="elementor-card media-card2">
                     <div class="card-img">
                         <img src="https://marevo.style/wp-content/uploads/2023/02/DSC07827-234x300.jpg" alt="">
                     </div>
@@ -78,7 +78,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="elementor-card" v-motion-slide-visible-once-right>
+                <div class="elementor-card">
                     <div class="card-img">
                         <img src="https://marevo.style/wp-content/uploads/2023/02/DSC07644-225x300.jpg" alt="">
                     </div>
@@ -108,7 +108,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="elementor-card" v-motion-slide-visible-once-bottom>
+                <div class="elementor-card">
                     <div class="card-img">
                         <img src="https://marevo.style/wp-content/uploads/2023/02/DSC07439-%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82-225x300.jpg"
                             alt="">
@@ -143,7 +143,7 @@
                 </div>
             </swiper-slide>
             <swiper-slide data-hash="slide2" class="slide">
-                <div class="elementor-card media-card1" v-motion-slide-visible-once-left>
+                <div class="elementor-card media-card1">
                     <div class="card-img">
                         <img src="https://marevo.style/wp-content/uploads/2023/02/82-002-03-225x300.jpg" alt="">
                     </div>
@@ -175,7 +175,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="elementor-card media-card2" v-motion-slide-visible-once-right>
+                <div class="elementor-card media-card2">
                     <div class="card-img">
                         <img src="https://marevo.style/wp-content/uploads/2023/02/DSC00129-225x300.jpg" alt="">
                     </div>
@@ -208,7 +208,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="elementor-card" v-motion-slide-visible-once-left>
+                <div class="elementor-card">
                     <div class="card-img">
                         <img src="https://marevo.style/wp-content/uploads/2023/02/DSC06935-1-225x300.jpg" alt="">
                     </div>
@@ -238,7 +238,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="elementor-card" v-motion-slide-visible-once-right>
+                <div class="elementor-card">
                     <div class="card-img">
                         <img src="https://marevo.style/wp-content/uploads/2023/02/DSC00525-214x300.jpg" alt="">
                     </div>
@@ -270,7 +270,7 @@
                 </div>
             </swiper-slide>
             <swiper-slide data-hash="slide3" class="slide slide2">
-                <div class="elementor-card" v-motion-slide-visible-once-left>
+                <div class="elementor-card">
                     <div class="card-img">
                         <img src="https://marevo.style/wp-content/uploads/2023/02/82-002-03-225x300.jpg" alt="">
                     </div>
@@ -302,7 +302,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="elementor-card" v-motion-slide-visible-once-right>
+                <div class="elementor-card">
                     <div class="card-img">
                         <img src="https://marevo.style/wp-content/uploads/2023/02/DSC00129-225x300.jpg" alt="">
                     </div>
@@ -337,7 +337,7 @@
                 </div>
             </swiper-slide>
             <swiper-slide data-hash="slide4" class="slide slide2">
-                <div class="elementor-card" v-motion-slide-visible-once-left>
+                <div class="elementor-card">
                     <div class="card-img">
                         <img src="https://marevo.style/wp-content/uploads/2023/02/DSC00597-%E2%80%94-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F-213x300.jpg"
                             alt="">
@@ -368,7 +368,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="elementor-card" v-motion-slide-visible-once-top>
+                <div class="elementor-card">
                     <div class="card-img">
                         <img src="https://marevo.style/wp-content/uploads/2023/02/DSC07827-234x300.jpg" alt="">
                     </div>
@@ -405,7 +405,7 @@
         <swiper :spaceBetween="30" :hashNavigation="{ watchState: true, }" :pagination="{ clickable: true, }"
             :navigation="true" :modules="modules" class="mySwiper mySwiper2">
             <swiper-slide data-hash="slide1" class="slide">
-                <div class="elementor-card" v-motion-slide-visible-once-left>
+                <div class="elementor-card">
                     <div class="card-img">
                         <img src="https://marevo.style/wp-content/uploads/2023/02/DSC00597-%E2%80%94-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F-213x300.jpg"
                             alt="">
@@ -438,7 +438,7 @@
                 </div>
             </swiper-slide>
             <swiper-slide data-hash="slide2" class="slide">
-                <div class="elementor-card" v-motion-slide-visible-once-top>
+                <div class="elementor-card">
                     <div class="card-img">
                         <img src="https://marevo.style/wp-content/uploads/2023/02/DSC07827-234x300.jpg" alt="">
                     </div>
@@ -472,7 +472,7 @@
                 </div>
             </swiper-slide>
             <swiper-slide data-hash="slide3" class="slide">
-                <div class="elementor-card" v-motion-slide-visible-once-right>
+                <div class="elementor-card">
                     <div class="card-img">
                         <img src="https://marevo.style/wp-content/uploads/2023/02/DSC07644-225x300.jpg" alt="">
                     </div>
@@ -504,7 +504,7 @@
                 </div>
             </swiper-slide>
             <swiper-slide data-hash="slide4" class="slide">
-                <div class="elementor-card" v-motion-slide-visible-once-bottom>
+                <div class="elementor-card">
                     <div class="card-img">
                         <img src="https://marevo.style/wp-content/uploads/2023/02/DSC07439-%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82-225x300.jpg"
                             alt="">
@@ -539,7 +539,7 @@
                 </div>
             </swiper-slide>
             <swiper-slide data-hash="slide5" class="slide">
-                <div class="elementor-card" v-motion-slide-visible-once-left>
+                <div class="elementor-card">
                     <div class="card-img">
                         <img src="https://marevo.style/wp-content/uploads/2023/02/82-002-03-225x300.jpg" alt="">
                     </div>
@@ -573,7 +573,7 @@
                 </div>
             </swiper-slide>
             <swiper-slide data-hash="slide6" class="slide">
-                <div class="elementor-card" v-motion-slide-visible-once-right>
+                <div class="elementor-card">
                     <div class="card-img">
                         <img src="https://marevo.style/wp-content/uploads/2023/02/DSC00129-225x300.jpg" alt="">
                     </div>
@@ -608,7 +608,7 @@
                 </div>
             </swiper-slide>
             <swiper-slide data-hash="slide7" class="slide">
-                <div class="elementor-card" v-motion-slide-visible-once-left>
+                <div class="elementor-card">
                     <div class="card-img">
                         <img src="https://marevo.style/wp-content/uploads/2023/02/DSC06935-1-225x300.jpg" alt="">
                     </div>
@@ -640,7 +640,7 @@
                 </div>
             </swiper-slide>
             <swiper-slide data-hash="slide8" class="slide">
-                <div class="elementor-card" v-motion-slide-visible-once-right>
+                <div class="elementor-card">
                     <div class="card-img">
                         <img src="https://marevo.style/wp-content/uploads/2023/02/DSC00525-214x300.jpg" alt="">
                     </div>
@@ -672,7 +672,7 @@
                 </div>
             </swiper-slide>
             <swiper-slide data-hash="slide9" class="slide">
-                <div class="elementor-card" v-motion-slide-visible-once-left>
+                <div class="elementor-card">
                     <div class="card-img">
                         <img src="https://marevo.style/wp-content/uploads/2023/02/82-002-03-225x300.jpg" alt="">
                     </div>
@@ -706,7 +706,7 @@
                 </div>
             </swiper-slide>
             <swiper-slide data-hash="slide10" class="slide">
-                <div class="elementor-card" v-motion-slide-visible-once-right>
+                <div class="elementor-card">
                     <div class="card-img">
                         <img src="https://marevo.style/wp-content/uploads/2023/02/DSC00129-225x300.jpg" alt="">
                     </div>
@@ -741,7 +741,7 @@
                 </div>
             </swiper-slide>
             <swiper-slide data-hash="slide12" class="slide">
-                <div class="elementor-card" v-motion-slide-visible-once-left>
+                <div class="elementor-card">
                     <div class="card-img">
                         <img src="https://marevo.style/wp-content/uploads/2023/02/DSC00597-%E2%80%94-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F-213x300.jpg"
                             alt="">
@@ -774,7 +774,7 @@
                 </div>
             </swiper-slide>
             <swiper-slide data-hash="slide13" class="slide">
-                <div class="elementor-card" v-motion-slide-visible-once-top>
+                <div class="elementor-card">
                     <div class="card-img">
                         <img src="https://marevo.style/wp-content/uploads/2023/02/DSC07827-234x300.jpg" alt="">
                     </div>
