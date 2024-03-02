@@ -1,7 +1,7 @@
 <template>
     <div class="elementorSectionthree">
         <div class="elementor-img">
-            <a href="https://instagram.com/marevo_shoes?igshid=YmMyMTA2M2Y=" class="img1" v-motion-slide-visible-once-left>
+            <a href="https://instagram.com/marevo_shoes?igshid=YmMyMTA2M2Y=" class="img1">
                 <div class="blog">
                     <i class='bx bxl-instagram'></i>
                     <span>Bizni instagramda kuzatip boring</span>
@@ -10,7 +10,7 @@
                     src="https://marevo.style/wp-content/uploads/elementor/thumbs/br-valenki-qa5w3o8e2w7rd6k1iock4l9gejyfhpd6swo7egqzlk.webp"
                     title="br-valenki" alt="br-valenki" loading="lazy">
             </a>
-            <a href="https://instagram.com/marevo_shoes?igshid=YmMyMTA2M2Y=" class="img2" v-motion-slide-visible-once-top>
+            <a href="https://instagram.com/marevo_shoes?igshid=YmMyMTA2M2Y=" class="img2">
                 <div class="blog">
                     <i class='bx bxl-instagram'></i>
                     <span>Bizni instagramda kuzatip boring</span>
@@ -20,7 +20,7 @@
                     title="photo_2023-02-22-13.58.16-q2j9azy4chqxedbnglq2llm7sxspysib4x3c8wrp8o"
                     alt="photo_2023-02-22-13.58.16-q2j9azy4chqxedbnglq2llm7sxspysib4x3c8wrp8o" loading="lazy">
             </a>
-            <a href="https://instagram.com/marevo_shoes?igshid=YmMyMTA2M2Y=" class="img3" v-motion-slide-visible-once-right>
+            <a href="https://instagram.com/marevo_shoes?igshid=YmMyMTA2M2Y=" class="img3">
                 <div class="blog">
                     <i class='bx bxl-instagram'></i>
                     <span>Bizni instagramda kuzatip boring</span>
@@ -29,7 +29,7 @@
                     src="https://marevo.style/wp-content/uploads/elementor/thumbs/NTS05484-qa5w66gwaznabqwyvrcqryhpfjlo0nbf5bath11708.webp"
                     title="NTS05484" alt="NTS05484" loading="lazy">
             </a>
-            <a href="https://instagram.com/marevo_shoes?igshid=YmMyMTA2M2Y=" class="img4" v-motion-slide-visible-once-left>
+            <a href="https://instagram.com/marevo_shoes?igshid=YmMyMTA2M2Y=" class="img4">
                 <div class="blog">
                     <i class='bx bxl-instagram'></i>
                     <span>Bizni instagramda kuzatip boring</span>
@@ -48,7 +48,7 @@
                     src="https://marevo.style/wp-content/uploads/elementor/thumbs/08812121-1-qa5w8mtq5f08n3cmjtjoac719ri64726tgmgl1e6rc.webp"
                     title="08812121-1" alt="08812121-1" loading="lazy">
             </a>
-            <a href="https://instagram.com/marevo_shoes?igshid=YmMyMTA2M2Y=" class="img6" v-motion-slide-visible-once-right>
+            <a href="https://instagram.com/marevo_shoes?igshid=YmMyMTA2M2Y=" class="img6">
                 <div class="blog">
                     <i class='bx bxl-instagram'></i>
                     <span>Bizni instagramda kuzatip boring</span>
@@ -61,14 +61,14 @@
         </div>
         <div class="elementor-text">
             <div class="description-position-bottom">
-                <h3 class="heading-title" v-motion-slide-visible-once-top>MAREVO QUYLI VA ZOZONLI OYUBBIY OLAMINI KASHF ET
+                <h3 class="heading-title">MAREVO QUYLI VA ZOZONLI OYUBBIY OLAMINI KASHF ET
                 </h3>
-                <p class="description" v-motion-slide-visible-once-top>Biz siz uchun qulay va ko'p qirrali kundalik
+                <p class="description">Biz siz uchun qulay va ko'p qirrali kundalik
                     uslubdagi poyabzallarni yaratamiz.
                     Sifat, yengillik va estetikaning uyg'un kombinatsiyasi har bir qadamingizni qulaylik bilan to'ldiradi.
                 </p>
             </div>
-            <div class="elementor-button-wrapper" v-motion-slide-visible-once-top>
+            <div class="elementor-button-wrapper">
                 <a href="#" role="button">
                     <span class="elementor-button-text">
                         #MAREVO

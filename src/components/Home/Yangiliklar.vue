@@ -1,7 +1,7 @@
 <template>
     <div class="yangiliklar">
         <div class="news-blok">
-            <div class="news_block_l" v-motion-slide-visible-once-left>
+            <div class="news_block_l">
                 <div class="news_block_title">
                     <font style="vertical-align: inherit;">
                         <font style="vertical-align: inherit;">Yangiliklar</font>
@@ -19,7 +19,7 @@
                 </div>
             </div>
             <div class="news_block_r">
-                <div class="blog-post-info" v-motion-slide-visible-once-left>
+                <div class="blog-post-info">
                     <div class="info-post">
                         <div class="info default-date">
                             15.03.2023
@@ -34,7 +34,7 @@
                         &nbsp; MAREVO abarkalarning yangi ranglarini taqdim etadi ...
                     </div>
                 </div>
-                <div class="blog-post-info" v-motion-slide-visible-once-top>
+                <div class="blog-post-info">
                     <div class="info-post">
                         <div class="info default-date">
                             <font style="vertical-align: inherit;">

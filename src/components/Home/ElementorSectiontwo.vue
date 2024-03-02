@@ -1,9 +1,9 @@
 <template>
     <div class="elementor-container">
-        <div class="item1" v-motion-slide-visible-once-left>
-            <h3 v-motion-slide-visible-once-top>TRENDLAR O'ZGARIYOR</h3>
-            <h2 v-motion-slide-visible-once-top>MAREVO QALADI</h2>
-            <RouterLink to="/katalog"><button v-motion-slide-visible-once-top>Katalogga o'ting</button></RouterLink>
+        <div class="item1">
+            <h3>TRENDLAR O'ZGARIYOR</h3>
+            <h2>MAREVO QALADI</h2>
+            <RouterLink to="/katalog"><button>Katalogga o'ting</button></RouterLink>
         </div>
         <div class="item2">
         </div>

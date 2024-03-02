@@ -4,7 +4,7 @@
             <div class="otz_blok_1">
                 <swiper :spaceBetween="30" :centeredSlides="true" :autoplay="{ delay: 2500, disableOnInteraction: false, }"
                     :pagination="{ clickable: true, }" :navigation="true" :modules="modules" class="mySwiper">
-                    <swiper-slide class="slide" v-motion-slide-visible-once-top>
+                    <swiper-slide class="slide">
                         <div class="slide-title">
                             <h3>Oksana</h3>
                         </div>
@@ -18,7 +18,7 @@
                             <h4>OZON</h4>
                         </div>
                     </swiper-slide>
-                    <swiper-slide class="slide" v-motion-slide-visible-once-top>
+                    <swiper-slide class="slide">
                         <div class="slide-title">
                             <h3>Tatyana</h3>
                         </div>
@@ -32,7 +32,7 @@
                             <h4>Yovvoyi mevalar</h4>
                         </div>
                     </swiper-slide>
-                    <swiper-slide class="slide" v-motion-slide-visible-once-bottom>
+                    <swiper-slide class="slide">
                         <div class="slide-title">
                             <h3>Helen</h3>
                         </div>
@@ -44,7 +44,7 @@
                             <h4>OZON</h4>
                         </div>
                     </swiper-slide>
-                    <swiper-slide class="slide" v-motion-slide-visible-once-top>
+                    <swiper-slide class="slide">
                         <div class="slide-title">
                             <h3>Xalina</h3>
                         </div>
@@ -60,7 +60,7 @@
                     
                 </swiper>
             </div>
-            <div class="otz_blok_2" v-motion-slide-visible-once-bottom>
+            <div class="otz_blok_2">
                 <h2>Mijozlarimizdan fikr-mulohazalar</h2>
                 <p>Mahsulotlarimizga alohida qiymat va ma'no beradigan ilhom va ishonch</p>
             </div>

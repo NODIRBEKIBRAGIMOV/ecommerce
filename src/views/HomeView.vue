@@ -6,22 +6,6 @@
     <ElementorSectionthree />
     <Yangiliklar />
     <Comentariya />
-    <!-- <div class="containerr row px-3">
-      <div class="containers col-3" v-motion-slide-visible-once-bottom></div>
-      <div class="containers col-3" v-motion-slide-visible-once-left></div>
-      <div class="containers col-3" v-motion-slide-visible-once-bottom></div>
-      <div class="containers col-3" v-motion-slide-visible-once-left></div>
-      <div class="containers col-6" v-motion-slide-visible-once-top></div>
-      <div class="containers col-6" v-motion-slide-visible-once-left></div>
-    </div>
-    <div class="containerr row px-3">
-      <div class="containers col-3" v-motion-slide-visible-once-bottom></div>
-      <div class="containers col-3" v-motion-slide-visible-once-bottom></div>
-      <div class="containers col-3" v-motion-slide-visible-once-bottom></div>
-      <div class="containers col-3" v-motion-slide-visible-once-left></div>
-      <div class="containers col-6" v-motion-slide-visible-once-bottom></div>
-      <div class="containers col-6" v-motion-slide-visible-once-left></div>
-    </div> -->
   </div>
 </template>
 <script>
