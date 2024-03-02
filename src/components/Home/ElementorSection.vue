@@ -1090,7 +1090,9 @@ export default {
         padding: 10px 0 0 0;
         align-items: center;
     }
-
+    .elementor-title h3 {
+        font-size: 15px !important;
+    }
     .card-img {
         width: 80%;
         height: 250px;
