@@ -44,6 +44,9 @@ export default {
 .korbtn{
     z-index: 100;
 }
+.offcanvas{
+    border: 1px solid red;
+}
 .offcanvas-header {
     display: flex;
     height: 75px;

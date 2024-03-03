@@ -8,7 +8,6 @@
 </template>
 <script>
 import KorzinkaBtn from './KorzinkaBtn.vue';
-
 export default {
     components: { KorzinkaBtn }
 }
