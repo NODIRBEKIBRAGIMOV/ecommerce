@@ -3,11 +3,11 @@
         <RouterLink to="/"><span><i class='bx bx-home'></i></span></RouterLink>
         <span><i class='bx bx-user'></i>
             <button class="btn btn-primary" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasExample"
-                aria-controls="offcanvasExample">
+                aria-controls="offcanvasExamples">
                 Button with data-bs-target
             </button>
 
-            <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample"
+            <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExamples"
                 aria-labelledby="offcanvasExampleLabel">
                 <div class="offcanvas-header">
                     <h5 class="offcanvas-title" id="offcanvasExampleLabel">Offcanvas</h5>
