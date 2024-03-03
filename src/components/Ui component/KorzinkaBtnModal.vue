@@ -43,7 +43,7 @@ export default {
 </script>
 
 <style scoped>
-.offcanvas-start{
+.offcanvas.offcanvas-start{
     width: 100% !important;
 }
 .offcanvas.show:not(.hiding){
