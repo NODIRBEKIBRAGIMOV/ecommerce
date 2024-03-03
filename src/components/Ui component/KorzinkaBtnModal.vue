@@ -43,6 +43,9 @@ export default {
 </script>
 
 <style scoped>
+.offcanvas{
+    width: 100%;
+}
 button{
     border: none;
     background: none;
