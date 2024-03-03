@@ -46,6 +46,9 @@ export default {
 .offcanvas-start{
     width: 100% !important;
 }
+.offcanvas.show:not(.hiding){
+    width: 100% !important;
+}
 button{
     border: none;
     background: none;
