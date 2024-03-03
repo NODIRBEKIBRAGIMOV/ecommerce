@@ -58,6 +58,7 @@ span i:hover {
 }
 button{
     border: none;
+    background: none;
 }
 @media (max-width: 1025px) {
     .mobile-show {

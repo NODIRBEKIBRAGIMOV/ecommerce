@@ -45,6 +45,7 @@ export default {
 <style scoped>
 button{
     border: none;
+    background: none;
 }
 button i {
     color: #7777779c;
