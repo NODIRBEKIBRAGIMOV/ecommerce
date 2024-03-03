@@ -4,7 +4,6 @@
         <span>
             <button type="button" data-bs-toggle="offcanvas"
                 data-bs-target="#offcanvasScrolling" aria-controls="offcanvasScrolling"><i class='bx bx-user'></i></button>
-
             <div class="offcanvas offcanvas-start" data-bs-scroll="true" data-bs-backdrop="false" tabindex="1"
                 id="offcanvasScrolling" aria-labelledby="offcanvasScrollingLabel">
                 <div class="offcanvas-header">
@@ -57,7 +56,9 @@ span i {
 span i:hover {
     color: #777;
 }
-
+button{
+    border: none;
+}
 @media (max-width: 1025px) {
     .mobile-show {
         display: grid;

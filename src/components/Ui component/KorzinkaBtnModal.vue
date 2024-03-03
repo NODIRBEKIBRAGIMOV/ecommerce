@@ -43,6 +43,9 @@ export default {
 </script>
 
 <style scoped>
+button{
+    border: none;
+}
 button i {
     color: #7777779c;
     font-size: 22px;
