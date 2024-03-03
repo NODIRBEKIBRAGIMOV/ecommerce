@@ -21,5 +21,26 @@ export default {
 }
 </script>
 <style scoped>
-    
+    button i {
+    color: #7777779c;
+    font-size: 22px;
+    margin: 0 5px;
+    cursor: pointer;
+    position: relative;
+}
+
+button i:hover {
+    color: #777;
+}
+
+button i span {
+    background: black;
+    position: absolute;
+    top: -6px;
+    right: -6px;
+    font-size: 16px;
+    padding: 2px 5px 2px 5px;
+    color: white;
+    border-radius: 50%;
+}
 </style>
