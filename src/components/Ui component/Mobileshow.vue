@@ -2,7 +2,7 @@
     <div class="mobile-show">
         <RouterLink to="/"><span><i class='bx bx-home'></i></span></RouterLink>
         <span><i class='bx bx-user'></i></span>
-        <KorzinkaBtn />
+        <span><KorzinkaBtn /></span>
         <span><RouterLink to="/Sevimlilar"><i class='bx bx-heart'></i></RouterLink></span>
     </div>
 </template>
