@@ -85,4 +85,10 @@ button i span {
     color: white;
     border-radius: 50%;
 }
+
+@media (max-width: 576px) {
+    .offcanvas{
+        display: block;
+    }
+}
 </style>
