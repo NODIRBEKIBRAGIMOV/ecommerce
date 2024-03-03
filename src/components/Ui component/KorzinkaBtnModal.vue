@@ -43,7 +43,7 @@ export default {
 </script>
 
 <style scoped>
-.offcanvas.offcanvas-start{
+.offcanvas-start{
     width: 100% !important;
 }
 button{
