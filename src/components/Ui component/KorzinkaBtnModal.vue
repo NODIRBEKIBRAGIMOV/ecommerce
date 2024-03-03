@@ -1,6 +1,6 @@
 <template>
     <div>
-        <button type="button" style="border: none; background: red; padding: 0;" data-bs-toggle="offcanvas"
+        <button type="button" style="border: none; background: none; padding: 0;" data-bs-toggle="offcanvas"
             data-bs-target="#offcanvasRight" aria-controls="offcanvasRight"><i class='bx bx-basket'><span>{{ counter
             }}</span></i></button>
         <div class="offcanvas offcanvas-end" tabindex="10" id="offcanvasRight" aria-labelledby="offcanvasRightLabel">
