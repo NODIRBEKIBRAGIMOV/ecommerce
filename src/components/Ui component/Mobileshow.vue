@@ -7,7 +7,7 @@
     </div>
 </template>
 <script>
-import KorzinkaBtnModal from './KorzinkaBtnModal'
+import KorzinkaBtnModal from './KorzinkaBtnModal.vue'
 export default {
     components: {KorzinkaBtnModal}
 }
