@@ -2,14 +2,14 @@
     <div class="mobile-show">
         <RouterLink to="/"><span><i class='bx bx-home'></i></span></RouterLink>
         <span><i class='bx bx-user'></i></span>
-        <span><KorzinkaBtn /></span>
+        <span><KorzinkaBtnModal /></span>
         <span><RouterLink to="/Sevimlilar"><i class='bx bx-heart'></i></RouterLink></span>
     </div>
 </template>
 <script>
-import KorzinkaBtn from './KorzinkaBtn.vue';
+import KorzinkaBtnModal from './KorzinkaBtnModal'
 export default {
-    components: { KorzinkaBtn }
+    components: {KorzinkaBtnModal}
 }
 </script>
 <style scoped>
