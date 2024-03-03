@@ -49,7 +49,7 @@ a{
     font-size: 30px;
     bottom: 55px;
     right: 5px;
-    z-index: 10;
+    z-index: 9;
   }
 }
 </style>
