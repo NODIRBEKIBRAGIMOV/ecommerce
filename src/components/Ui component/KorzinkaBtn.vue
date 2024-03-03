@@ -45,7 +45,7 @@ export default {
     z-index: 100;
 }
 .offcanvas{
-    border: 1px solid red;
+    border: 1px solid red !important;
 }
 .offcanvas-header {
     display: flex;
