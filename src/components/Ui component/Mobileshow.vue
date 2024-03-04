@@ -1,8 +1,8 @@
 <template>
     <div class="mobile-show">
         <RouterLink to="/"><span><i class='bx bx-home'></i></span></RouterLink>
-        <span>
-            <button type="button" data-bs-toggle="offcanvas"
+        <span><i class='bx bx-user'></i>
+            <!-- <button type="button" data-bs-toggle="offcanvas"
                 data-bs-target="#offcanvasScrolling" aria-controls="offcanvasScrolling"><i class='bx bx-user'></i></button>
             <div class="offcanvas offcanvas-start" data-bs-scroll="true" data-bs-backdrop="false" tabindex="1"
                 id="offcanvasScrolling" aria-labelledby="offcanvasScrollingLabel">
@@ -13,7 +13,7 @@
                 <div class="offcanvas-body">
                     <p>Try scrolling the rest of the page to see this option in action.</p>
                 </div>
-            </div>
+            </div> -->
         </span>
         <span>
             <KorzinkaBtnModal />
