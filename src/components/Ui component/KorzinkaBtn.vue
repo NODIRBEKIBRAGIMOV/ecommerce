@@ -9,7 +9,7 @@
                 <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
             </div>
             <div class="offcanvas-body">
-                <h1>Savatcha bo'sh</h1>
+                <h5>Savatcha bo'sh</h5>
             </div>
         </div>
     </div>
@@ -30,9 +30,7 @@ export default {
 .korbtn{
     z-index: 100;
 }
-.offcanvas{
-    border: 1px solid red !important;
-}
+
 .offcanvas-header {
     display: flex;
     height: 75px;
