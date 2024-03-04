@@ -72,6 +72,7 @@ button i span {
 .offcanvas-header .btn-close{
     color: #111 !important;
     display: block;
+    margin-top: -25px;
 }
 .offcanvas-header {
     display: flex;
