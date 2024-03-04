@@ -7,7 +7,7 @@
             id="offcanvasScrolling" aria-labelledby="offcanvasScrollingLabel">
             <div class="offcanvas-header">
                 <h5 class="offcanvas-title" id="offcanvasRightLabel">Savatcha ({{ counter }})</h5>
-                <button type="button" class="btn-close btn btn-primary" data-bs-dismiss="offcanvas" aria-label="Close"><i class='bx bx-x'></i></button>
+                <button type="button" class="btn-close" data-bs-dismiss="offcanvas"><i class='bx bx-x' aria-label="Close"></i></button>
             </div>
             <div class="offcanvas-body">
                 <p>Savatcha bo'sh</p>
