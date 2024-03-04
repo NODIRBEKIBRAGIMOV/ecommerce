@@ -9,8 +9,7 @@
                 <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
             </div>
             <div class="offcanvas-body">
-                <button v-on:click="min">-</button>
-                <button v-on:click="ondec">+</button>
+                <h1>Savatcha bo'sh</h1>
             </div>
         </div>
     </div>
@@ -23,20 +22,7 @@ export default {
         }
     },
     methods: {
-        ondec() {
-            if (this.counter < 10) {
-                this.counter += 1
-            } else {
-                alert('error')
-            }
-        },
-        min() {
-            if (this.counter > 0) {
-                this.counter -= 1
-            } else {
-                this.counter = 0
-            }
-        }
+        
     }
 }
 </script>
