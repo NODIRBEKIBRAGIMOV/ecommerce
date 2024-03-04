@@ -69,6 +69,9 @@ button i span {
     color: white;
     border-radius: 50%;
 }
+.btn-close{
+    color: #111;
+}
 .offcanvas-header {
     display: flex;
     height: 75px;
