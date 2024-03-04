@@ -6,11 +6,11 @@
         <div class="offcanvas offcanvas-start" data-bs-scroll="true" data-bs-backdrop="false" tabindex="1"
             id="offcanvasScrolling" aria-labelledby="offcanvasScrollingLabel">
             <div class="offcanvas-header">
-                <h5 class="offcanvas-title" id="offcanvasScrollingLabel">Offcanvas with body scrolling</h5>
+                <h5 class="offcanvas-title" id="offcanvasRightLabel">Savatcha ({{ counter }})</h5>
                 <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
             </div>
             <div class="offcanvas-body">
-                <p>Try scrolling the rest of the page to see this option in action.</p>
+                <p>Savatcha bo'sh</p>
             </div>
         </div>
     </div>
@@ -68,5 +68,20 @@ button i span {
     padding: 2px 5px 2px 5px;
     color: white;
     border-radius: 50%;
+}
+.offcanvas-header {
+    display: flex;
+    height: 75px;
+    justify-content: space-between;
+    background-color: #96969626;
+    width: 100%;
+    padding-right: 45px;
+}
+
+.offcanvas-title {
+    margin: 0;
+    font-weight: 400;
+    font-size: 18px;
+    color: #111;
 }
 </style>
