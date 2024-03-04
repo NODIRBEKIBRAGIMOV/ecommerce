@@ -41,7 +41,7 @@ input{
     margin: 0 0 19px 0;
     font-size: 17px;
     color: #707070;
-    background: #7089db65;
+    background: #7089db22;
 }
 .checkend{
     display: flex;
